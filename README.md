@@ -1,4 +1,8 @@
-## 🌐 Socials:
+# 💫 About Me:
+- 🔭 Currently working on: Data Science and AI/ML projects focused on solving real-world problems using structured data and predictive modeling.<br><br>- 👯 Looking to collaborate on: End-to-end Data Science and Machine Learning projects, including data preprocessing, feature engineering, model development, and evaluation.<br><br>- 🤝 Looking for help with: Model deployment, MLOps practices, and scaling ML solutions for production environments.<br><br>- 🌱 Currently learning: Advanced Machine Learning, NumPy, Pandas, Scikit-learn, and practical implementation of AI/ML pipelines.<br><br>- 💬 Ask me about: Python development, project building, mentoring strategies, and transitioning from learning to real-world implementation.<br><br>- ⚡ Fun fact: I emphasize project-based learning and focus on building solutions that align directly with industry expectations.
+-
+-
+- ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h__ika7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/harika8281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harikareddy8281@gmail.com) 
 
 # 💻 Tech Stack:
